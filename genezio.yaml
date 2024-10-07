@@ -1,4 +1,3 @@
-backend:
     cloudProvider: genezio-cloud
     functions:
         - entry: index.mjs
